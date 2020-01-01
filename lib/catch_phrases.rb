@@ -5,6 +5,6 @@ def mario
   return status
 end
 
-def toadstool (status)
+def toadstool (mario)
   puts status
 end
