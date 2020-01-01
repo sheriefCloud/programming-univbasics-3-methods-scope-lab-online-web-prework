@@ -16,5 +16,5 @@ end
 
 def any_phrse (phrase)
   puts phrase
-  
+
 end
