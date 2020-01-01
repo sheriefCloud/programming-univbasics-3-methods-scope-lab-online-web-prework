@@ -15,6 +15,6 @@ def link
 end
 
 def any_phrse (phrase)
-  puts phrase
+  puts (phrase)
 
 end
